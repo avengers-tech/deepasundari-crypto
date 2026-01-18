@@ -7,7 +7,7 @@ Get all the Info regarding your favorite Crypto Currency
 Crypto Hub is a tool designed to help you access and visualize cryptocurrency data effortlessly. Whether you're a casual investor, a trader, or just curious about the crypto market, Crypto Hub provides a user-friendly interface to explore real-time information about various cryptocurrencies.
 
 ## Live Site 🚀
-https://crypto-deepasundari.vercel.app/
+https://deepasundari-crypto.vercel.app/
 
 ## Features
 
