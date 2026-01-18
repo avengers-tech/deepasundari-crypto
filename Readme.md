@@ -25,6 +25,6 @@ https://crypto-deepasundari.vercel.app/
 
 To get started with Coincrest, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/`
+1. Clone the repository: `git clone https://github.com/avengers-tech/deepasundari-crypto`
 2. Install dependencies: `npm install`
 3. Run the application: `npm start`
